@@ -1,11 +1,11 @@
 module Greeter {
-  module Hello {
-    header "Hello.h"
+  module Welcome {
+    header "Welcome/HelloWorld.h"
     export *
   }
 
-  module Goodbye {
-    header "Goodbye.h"
+  module Farewell {
+    header "Farewell/GoodbyeWorld.h"
     export *
   }
 }
