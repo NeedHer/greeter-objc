@@ -1,0 +1,11 @@
+module Greeter {
+  module Hello {
+    header "Hello.h"
+    export *
+  }
+
+  module Goodbye {
+    header "Goodbye.h"
+    export *
+  }
+}
