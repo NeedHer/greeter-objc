@@ -20,8 +20,4 @@
   NSLog(@"%@", message);
 }
 
-- (NSString*)justSayHello {
-  return @"Hello";
-}
-
 @end
